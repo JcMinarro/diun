@@ -9,7 +9,7 @@ Tutorials made by the community.
 - 2021-05-10 - cwl.cc - [Updating Docker containers safely](https://cwl.cc/2021/05/updating-docker-containers-safely.html)
 - 2021-03-20 - www.blackvoid.club - [Diun - friendly docker image update notifier](https://www.blackvoid.club/diun-friendly-docker-image-update-notifier/)
 - 2020-10-09 - selfhosted.show - [Podcast: Perils of Self-Hosting](https://selfhosted.show/29?t=637)
-- 2020-09-21 - blog.alexsguardian.net - [Docker Container Building via GitHub Actions with Diun](https://blog.alexsguardian.net/2020/09/21/docker-container-building-via-github-actions-with-diun/)
+- 2020-09-21 - blog.alexsguardian.net - [Docker Container Building via GitHub Actions with Diun](https://blog.alexsguardian.net/posts/2022/06/20/AutoGHActionsDiun)
 - 2020-09-17 - spad.uk - [Monitoring For Docker Image Updates With Diun](https://spad.uk/monitoring-for-docker-image-updates-with-diun/)
 - 2019-06-10 - crazymax.medium.com - [Diun - Docker image update notifier](https://crazymax.medium.com/diun-docker-image-update-notifier-78f09e29b469)
 
